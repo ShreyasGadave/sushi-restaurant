@@ -13,9 +13,7 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Landing page design for a sushi restaurant featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
-
-**[FR]** Page d'accueil pour un restaurant de sushi, mettant en avant une esthétique moderne et minimaliste, réalisée avec HTML, CSS et JavaScript. Agrémentée d'animations fluides grâce à la bibliothèque ScrollReveal.js.
+ Landing page design for a sushi restaurant featuring a modern and minimalist aesthetic, crafted using HTML, CSS, and JavaScript. Enhanced with smooth animations powered by ScrollReveal.js library.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
